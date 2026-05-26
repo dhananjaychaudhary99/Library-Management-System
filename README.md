@@ -37,16 +37,6 @@ Library-Management-System/
 │── README.md
 ```
 
----
-
-## How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/dhananjaychaudhary99/Library-Management-System.git
-```
-
 ### Open Project
 
 Open the project in:
