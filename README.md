@@ -39,14 +39,6 @@ Library-Management-System/
 
 ---
 
-## How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/dhananjaychaudhary99/Library-Management-System.git
-```
-
 ### Open Project
 
 Open the project in:
@@ -115,14 +107,6 @@ Stores all book records permanently in `books.txt`.
 - Database connectivity
 - Fine management system
 - Student database integration
-
----
-
-## GitHub Repository
-
-<a href="https://github.com/dhananjaychaudhary99/Library-Management-System" target="_blank">
-GitHub Repository
-</a>
 
 ---
 
