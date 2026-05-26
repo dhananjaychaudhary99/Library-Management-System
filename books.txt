@@ -1,0 +1,12 @@
+101
+Data Structures
+Mark Allen Weiss
+10
+102
+Operating System Concepts
+Abraham Silberschatz
+5
+103
+Computer Networks
+Andrew S. Tanenbaum
+15
