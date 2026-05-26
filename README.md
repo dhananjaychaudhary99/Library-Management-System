@@ -118,9 +118,11 @@ Stores all book records permanently in `books.txt`.
 
 ---
 
-## 🌐 Live Demo
+## GitHub Repository
 
-🔗 https://dhananjaychaudhary99.github.io/Library-Management-System/
+<a href="https://github.com/dhananjaychaudhary99/Library-Management-System" target="_blank">
+GitHub Repository
+</a>
 
 ---
 
