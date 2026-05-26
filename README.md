@@ -118,12 +118,6 @@ Stores all book records permanently in `books.txt`.
 
 ---
 
-## 🌐 Live Demo
-
-🔗 https://dhananjaychaudhary99.github.io/Library-Management-System/
-
----
-
 ## Author
 
 Dhananjay Chaudhary
