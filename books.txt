@@ -1,0 +1,124 @@
+101
+C++ Programming
+Bjarne Stroustrup
+10
+
+102
+Data Structures
+Mark Allen Weiss
+5
+
+103
+Operating System
+Galvin
+10
+
+104
+Java Programming
+Herbert Schildt
+8
+
+105
+Python Crash Course
+Eric Matthes
+12
+
+106
+Computer Networks
+Andrew S. Tanenbaum
+7
+
+107
+Database System Concepts
+Abraham Silberschatz
+6
+
+108
+Artificial Intelligence
+Stuart Russell
+9
+
+109
+Machine Learning
+Tom M. Mitchell
+5
+
+110
+Deep Learning
+Ian Goodfellow
+4
+
+111
+Clean Code
+Robert C. Martin
+11
+
+112
+The C Programming Language
+Brian W. Kernighan
+8
+
+113
+Design Patterns
+Erich Gamma
+6
+
+114
+Introduction to Algorithms
+Thomas H. Cormen
+10
+
+115
+Head First Java
+Kathy Sierra
+9
+
+116
+Effective Java
+Joshua Bloch
+7
+
+117
+Computer Organization
+Morris Mano
+8
+
+118
+Software Engineering
+Ian Sommerville
+6
+
+119
+Cryptography and Network Security
+William Stallings
+10
+
+120
+Web Technologies
+Jeffrey C. Jackson
+5
+
+121
+Programming in ANSI C
+E. Balagurusamy
+12
+
+122
+Object Oriented Programming with C++
+E. Balagurusamy
+8
+
+123
+Data Communications and Networking
+Behrouz A. Forouzan
+7
+
+124
+Compiler Design
+Alfred V. Aho
+5
+
+125
+Discrete Mathematics
+Kenneth H. Rosen
+9
